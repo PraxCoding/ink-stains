@@ -44,9 +44,9 @@
 <td width="25%" valign="top">
 
 ### 🌐 计算机网络
-- [ping](计算机网络/ping.md)
+- [Ping](计算机网络/Ping.md)
 - [Traceroute](计算机网络/Traceroute.md)
-- [dig](计算机网络/dig.md)
+- [Dig](计算机网络/Dig.md)
 
 </td>
 </tr>
